@@ -1,0 +1,23 @@
+{
+  "name": "advent-of-code-2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tallestthomas/advent-of-code-2019.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tallestthomas/advent-of-code-2019/issues"
+  },
+  "homepage": "https://github.com/Tallestthomas/advent-of-code-2019#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.9.0"
+  }
+}
